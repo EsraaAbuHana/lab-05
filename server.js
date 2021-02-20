@@ -1,9 +1,9 @@
 'use strict';
 //1//
-const { request, response } = require('express');
+// const { request, response } = require('express');
 //build our server 
-const express=require('express');//var that requires to use the express libraries
-const { process } = require('ipaddr.js');
+// const express=require('express');//var that requires to use the express libraries
+// const { process } = require('ipaddr.js');
 
 //when ever i require something i have to install it in terminal //in terminal : npm install express >>then file node_modules is been creating >>that has all the packages that i may gonna need to use them >>one of them is the express 
 //2//
