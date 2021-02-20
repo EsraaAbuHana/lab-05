@@ -204,7 +204,7 @@ br.clear {
 			}
 
 				#header .icons a:hover {
-					color: #fff;
+					color: #90e9f8;
 				}
 
 	#logo {
@@ -278,11 +278,11 @@ br.clear {
 				#nav ul li a.active {
 					background: rgba(0, 0, 0, 0.15);
 					box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125);
-					color: #fff;
+					color: #90e9f8;
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #90e9f8;
 					}
 
 /* Footer */
@@ -340,12 +340,12 @@ br.clear {
 				}
 
 				#main > section.dark strong {
-					color: #fff;
+					color: #90e9f8;
 					border-color: inherit;
 				}
 
 				#main > section.dark a {
-					color: #fff;
+					color: #90e9f8;
 					border-color: inherit;
 				}
 
